@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arun Chavan</title>
+    <link>/</link>
+    <description>Recent content on Arun Chavan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>arun.chavan@yale.edu (Arun Chavan)</managingEditor>
+    <webMaster>arun.chavan@yale.edu (Arun Chavan)</webMaster>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>arun.chavan@yale.edu (Arun Chavan)</author>
+      <guid>/cv/</guid>
+      <description>Download full CV in pdf.
+Education     Ph.D. Ecology and Evolutionary Biology, Yale University
+Thesis – Evolutionary origin of cell types: a case study of decidual cells in mammalian pregnancy
+Adviser – Dr. Gunter P. Wagner  2012&amp;ndash;18   M.Sc. Biology, Tata Institute of Fundamental Research (TIFR)
+Thesis – Allelic variation in yeast: its role in cis-regulatory adaptation and its pleiotropic consequences
+Adviser – Dr. Himanshu Sinha  2009&amp;ndash;12   B.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>arun.chavan@yale.edu (Arun Chavan)</author>
+      <guid>/publications/</guid>
+      <description>Evolution of embryo implantation was enabled by the origin of decidual cells in eutherian mammals.
+Chavan AR, Griffith OW, Stadtmauer D, Maziarz JD, Pavlicev M, Fishman R, Koren L, Romero R, Wagner GP (2018)
+BioRxiv 429571 | pdf 
+The mammalian decidual cell evolved from a cellular stress response. Erkenbrack EM, Maziarz JD, Griffith OW, Liang C, Chavan AR, Nnamani MC, Wagner GP (2018)
+PLOS Biology 16(8): e2005594 | pdf</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -4,7 +4,7 @@ body { color: var(--body-text-color); background-color: var(--background-color);
 .secondary-color { color: var(--secondary-color); }
 .bg-main-color { background-color: var(--main-color); color: var(--logo-text-color); }
 .global-font { font-family: 'Source Sans Pro',san-serif; }
-.heading-font { font-family: 'PT Serif',serif; color: var(--heading-text-color); font-weight: 400; font-size: 1.1rem;}
+.heading-font { font-family: 'Source Serif Pro',serif; color: var(--heading-text-color); font-weight: 400; font-size: 1.1rem;}
 .heading-color { color: var(--heading-text-color); }
 
 main a, .post-content a, .list-pages a, .pagination a {
@@ -18,21 +18,32 @@ main a:hover, .list-pages a:hover, .post-content a:hover, .pagination a:hover, #
   color: /*var(--body-text-color);*/ #AA3333;
 }
 
-.content-width { max-width: 780px; }
+.content-width { max-width: 850px; }
 
-h2, h3, h4, h5, h6 {
-  font-family: 'PT Serif',serif;
+h2, h3 {
+  font-family: 'Source Serif Pro',serif;
   letter-spacing: 0px;
-  color: #666666; /*var(--body-text-color)*/
-  font-weight: 400;
-  font-size: 1em;
+  color: var(--body-text-color);
+  font-weight: 600;
+  font-size: 0.95em;
   margin-top: 0.6em;
   margin-bottom: 0.6em;
 }
 
+h4, h5, h6 {
+  font-family: 'Source Serif Pro',serif;
+  letter-spacing: 0px;
+  color: #666666; /*var(--body-text-color)*/
+  font-weight: 400;
+  font-size: 0.95em;
+  font-style: italic;
+  margin-top: 0.6em;
+  margin-bottom: 0em;
+}
+
 h1 {
   font-family: 'Source Sans Pro',sans-serif;
-  font-size: 48px;
+  font-size: 2rem;
   letter-spacing: 0px;
   color: var(--body-text-color);
   font-weight: 700;
@@ -46,24 +57,25 @@ pre {
 }
 
 main {
-  font-family: 'PT Serif', serif;
+  font-family: 'Source Serif Pro', serif;
   font-size: 1rem;
-  line-height: 140%;
+  line-height: 1.4;
 }
 
 p {
-  font-family: 'PT Serif', serif;
+  font-family: 'Source Serif Pro', sans-serif;
   font-size: 1rem;
-  line-height: 140%;
+  line-height: 1.4;
   margin-bottom: 0.6em;
   margin-top: 0em;
 }
 
 .about-me-table {
-  line-height: 140%;
-  margin-bottom: 0.6em;
+  line-height: 1.45;
+  margin-bottom: 0.8em;
   margin-top: 0em;
-  font-size: 0.95em;
+  font-size: 0.92em;
+  padding-right: 0%;
 }
 
 .icon-links{
@@ -72,13 +84,13 @@ p {
 }
 
 li {
-  font-family: 'PT Serif', serif;
-  line-height: 140%;
+  font-family: 'Source Serif Pro', serif;
+  line-height: 1.4;
   font-size: 1rem;
 }
 
 .toc-list-item {
-  font-size: 0.87rem;
+  font-size: 0.85rem;
   font-family: 'Source Sans Pro', sans-serif;
 }
 
@@ -156,7 +168,7 @@ table {
   width: 100%;
   table-layout: fixed
   font-size: 1rem;
-  font-family: 'PT Serif',serif;
+  font-family: 'Source Serif Pro',serif;
   border-collapse:collapse;
   margin: 0rem auto;
   padding:0;
@@ -172,8 +184,8 @@ table {
 .table-20percent-object {width: 20%;}
 .table-80percent-object {width: 80%;}
 
-.table-about-me-photo {width: 26%;}
-.table-about-me-text {width: 74%;}
+.table-about-me-photo {width: 28%;}
+.table-about-me-text {width: 72%;}
 
 table tr {
   border-top:0px solid #ccc;
@@ -201,9 +213,9 @@ table tr th, table tr td {
   text-align:left;
   vertical-align:top;
   margin:0;
-  padding:6px 8px;
+  padding:3px 8px;
   font-size: 1rem;
-  line-height: 140%;
+  line-height: 1.4;
 }
 
 

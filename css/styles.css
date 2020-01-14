@@ -90,7 +90,7 @@ li {
 }
 
 .toc-list-item {
-  font-size: 0.85rem;
+  font-size: 0.80rem;
   font-family: 'Source Sans Pro', sans-serif;
 }
 
@@ -106,10 +106,11 @@ small {
 
 #tag-cloud { max-width: 250px; }
 #contents-list>.toc-list { 
-  max-width: 250px; 
+  max-width: 200px; 
   overflow: hidden;
   position: fixed;
-  left: 2rem;
+  left: 1rem;
+  padding-right: 2rem;
 }
 @media (min-width: 1200px) {
   #contents-list>.toc-list, #tag-cloud  { 

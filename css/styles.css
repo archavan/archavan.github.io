@@ -1,10 +1,10 @@
-html { font-size: 18px; }
+html { font-size: 18.5px; }
 body { color: var(--body-text-color); background-color: var(--background-color);}
 .main-color { color: var(--main-color); }
 .secondary-color { color: var(--secondary-color); }
 .bg-main-color { background-color: var(--main-color); color: var(--logo-text-color); }
 .global-font { font-family: 'Source Sans Pro',san-serif; }
-.heading-font { font-family: 'PT Serif',serif; color: var(--heading-text-color); font-weight: 400; font-size: 1.1rem;}
+.heading-font { font-family: 'Source Sans Pro',sans-serif; color: var(--heading-text-color); font-weight: 400; font-size: 1.1rem;}
 .heading-color { color: var(--heading-text-color); }
 
 main a, .post-content a, .list-pages a, .pagination a {
@@ -21,7 +21,7 @@ main a:hover, .list-pages a:hover, .post-content a:hover, .pagination a:hover, #
 .content-width { max-width: 850px; }
 
 h2, h3 {
-  font-family: 'PT Serif', serif;
+  font-family: 'Source Sans Pro', sans-serif;
   letter-spacing: 0px;
   color: var(--body-text-color);
   font-weight: 600;
@@ -31,7 +31,7 @@ h2, h3 {
 }
 
 h4, h5, h6 {
-  font-family: 'PT Serif',serif;
+  font-family: 'Source Sans Pro',sans-serif;
   letter-spacing: 0px;
   color: #666666; /*var(--body-text-color)*/
   font-weight: 400;
@@ -57,13 +57,13 @@ pre {
 }
 
 main {
-  font-family: 'PT Serif', serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 1rem;
   line-height: 1.4;
 }
 
 p {
-  font-family: 'PT Serif', serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 1rem;
   line-height: 1.4;
   margin-bottom: 0.6em;
@@ -84,7 +84,7 @@ p {
 }
 
 li {
-  font-family: 'PT Serif', serif;
+  font-family: 'Source Sans Pro', sans-serif;
   line-height: 1.4;
   font-size: 1rem;
 }
@@ -169,7 +169,7 @@ table {
   width: 100%;
   table-layout: fixed
   font-size: 1rem;
-  font-family: 'PT Serif',serif;
+  font-family: 'Source Sans Pro',sans-serif;
   border-collapse:collapse;
   margin: 0rem auto;
   padding:0;
@@ -222,7 +222,7 @@ table tr th, table tr td {
 
 main a:after, .post-content a:after{
     position: relative;
-    content: "\FEFF°";
+    content: "\FEFF\25CF"; /*alternatives: medium small white circle: ⚬, degree:° or \00B0,arrow:→, ᵒ, \25FC */
     margin-left: 0.10em;
     font-size: 100%;
     top: -0.10em;

@@ -1,0 +1,11 @@
+---
+title: Curriculum vitae
+---
+
+[Download PDF](static/cv/cv-chavan.pdf) 
+
+::: {.column-body}
+  <iframe src="static/cv/cv-chavan.pdf" width="100%" height="600px">
+  </iframe>
+:::
+

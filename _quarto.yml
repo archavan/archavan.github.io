@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Arun Chavan"
+  twitter-card: true
+  google-analytics: "UA-138907227-1"
+  navbar:
+    pinned: false
+    left: 
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+  search: 
+    location: navbar
+    type: textbox
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,148 @@
+---
+title: "Publications"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+For more details, see [Google Scholar](https://scholar.google.com/citations?user=8ikC3u0AAAAJ&hl=en).
+
+1. Tissue Biology: In Search of a New Paradigm    
+[*Annual Review of Cell & Developmental Biology* 39(1)](https://doi.org/10.1146/annurev-cellbio-120420-113830) (2023)  
+<small>
+Adler M\*, **Chavan AR**\*, Medzhitov R  
+(\*equal contribution)    
+pdf: [download](static/publications/Adler_2023_annurev-cellbio.pdf)
+</small>
+
+1. SARS-CoV-2 infection in pregnancy is associated with robust inflammatory response at the maternal-fetal interface  
+[*Med* 2(5), 591-610](https://doi.org/10.1016/j.medj.2021.04.016) (2021)  
+<small>
+Lu-Culligan A, **Chavan AR**, Vijayakumar P, Irshaid L, Courchaine EM, Milano KM, Tang Z, Pope SD, Song E, Vogels CBF, Lu-Culligan WJ, Campbell KH, Casanovas-Massana A, Bermejo S, Toothaker JM, Lee HJ, Liu F, Schulz W, Fournier J, Muenker MC, Moore AJ, Yale IMPACT Team, Konnikova L, Neugebauer KM, Ring A, Grubaugh ND, Ko AI, Morotti R, Guller S, Kliman HJ, Iwasaki A, Farhadian SF  
+pdf: [download](static/publications/Lu-Culligan_2021_med.pdf) •
+preprint: [medRxiv](https://www.medrxiv.org/content/10.1101/2021.01.25.21250452v1) •
+code: [archavan/covid-placenta](https://github.com/archavan/covid-placenta) •
+data: [GSE171995](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE171995) & 
+[GSE171381](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE171381)
+</small>
+
+
+1. Evolution of embryo implantation was enabled by the origin of decidual stromal cells in eutherian mammals  
+[*Molecular Biology & Evolution* msaa274](https://doi.org/10.1093/molbev/msaa274) (2020)  
+<small>
+**Chavan AR**, Griffith OW, Stadtmauer D, Maziarz J, Pavlicev M, Fishman R, Koren L, Romero R, Wagner GP   
+ pdf: [download](static/publications/Chavan_2020_MBE.pdf) •
+preprint: [bioRxiv](https://doi.org/10.1101/429571) •
+code: [archavan/implantation-il17a](https://github.com/archavan/implantation-il17a) •
+data: [GSE120510](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE120510) & [GSE120380](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE120380)
+</small>
+
+1. Endometrial recognition of pregnancy occurs in the grey short-tailed opossum (*Monodelphis domestica*)  
+[*Proceedings of the Royal Society. B* 286: 20190691](https://royalsocietypublishing.org/doi/10.1098/rspb.2019.0691) (2019)  
+<small>
+Griffith OW, **Chavan AR**, Pavlicev M, Protopapas S, Callahan R, Maziarz J, Wagner GP  
+pdf: [download](static/publications/Griffith_2019_ProcB.pdf) •
+data: [PRJNA543903](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA543903)
+</small>
+
+1. The mammalian decidual cell evolved from a cellular stress response  
+[*PLoS Biology* 16(8): e2005594](https://doi.org/10.1371/journal.pbio.2005594) (2018)   
+<small>
+Erkenbrack EM, Maziarz JD, Griffith OW, Liang C, **Chavan AR**, Nnamani MC, Wagner GP    
+pdf: [download](static/publications/Erkenbrack_2018_plos-bio.pdf) •
+preprint: [bioRxiv](https://doi.org/10.1101/246397)
+</small>
+
+1. Reply to Liu: Inflammation before implantation both in evolution and development  
+[*PNAS* 115(1):E3--E4](https://doi.org/10.1073/pnas.1717001115) (2017)   
+<small>
+Griffith OW, **Chavan AR**, Protopapas S, Maziarz J, Romero R, Wagner GP    
+pdf: [download](static/publications/Griffith_2017_PNAS-b.pdf)
+</small>
+
+1. Genetic Associations with Gestational Duration and Spontaneous Preterm Birth  
+[*New England Journal of Medicine* 377(12):1156--1167](https://www.nejm.org/doi/full/10.1056/NEJMoa1612665) (2017)  
+<small>
+Zhang G, Feenstra B, Bacelis J, Liu X, Muglia L.M, Juodakis J, Miller DE, Litterman N, Jiang PP, Russell L, Hinds DA, Hu Y, Weirauch MT, Chen X, **Chavan AR**, Wagner GP, Pavličev M, Nnamani MC, Maziarz J, Karjalainen MK, Rämet M, Sengpiel V, Geller F, Boyd HA, Palotie A, Momany A, Bedell B, Ryckman KK, Huusko JM, Forney CR, Kottyan LC, Hallman M, Teramo K, Nohr EA, Davey Smith G, Melbye M, Jacobsson B, Muglia LJ   
+pdf: [download](static/publications/Zhang_2017_NEJM.pdf)
+</small>
+
+1. The inflammation paradox in the evolution of mammalian pregnancy: turning a foe into a friend  
+[*Current Opinion in Genetics & Development* 47:24--32](https://doi.org/10.1016/j.gde.2017.08.004) (2017)  
+<small>
+**Chavan AR**, Griffith OW, Wagner GP  
+pdf: [download](static/publications/Chavan_2017_COGD.pdf)
+</small>
+
+1. Embryo implantation evolved from an ancestral inflammatory attachment reaction    
+[*PNAS* 114(32):E6566--E6575](https://doi.org/10.1073/pnas.1701129114) (2017)  
+<small>
+Griffith OW, **Chavan AR**, Protopapas S, Maziarz J, Romero R, Wagner GP  
+pdf: [download](static/publications/Griffith_2017_PNAS-a.pdf) • 
+data: [SRP111668](https://www.ncbi.nlm.nih.gov/sra/SRP111668)
+</small>
+
+1. Evolution of gene expression in the uterine cervix related to steroid signaling: conserved features in the regulation of cervical ripening    
+[*Scientific Reports* 7(1):4439](https://doi.org/10.1038/s41598-017-04759-6) (2017)   
+<small>
+Wagner GP, Nnamani MC, **Chavan AR**, Maziarz J, Protopapas S, Condon J, Romero R    
+pdf: [download](static/publications/Wagner_2017_sci-rep.pdf) • 
+data:  [GSE85815](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE85815)
+</small>
+
+1. Single-cell transcriptomics of the human placenta: inferring the cell communication network of the maternal-fetal interface    
+[*Genome Research* 27:349--361](http://www.genome.org/cgi/doi/10.1101/gr.207597.116) (2017)  
+<small>
+Pavlicev M, Wagner GP, **Chavan AR**, Owens K, Maziarz J, Dunn-Fletcher C, Kallapur SG, Muglia L, Jones H  
+pdf: [download](static/publications/Pavlicev_2017_genome-res.pdf) •
+data:  [GSE87726](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE87726) & [GSE87692](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE87692)
+</small>
+
+1. The transcriptomic evolution of mammalian pregnancy: gene expression innovations in endometrial stromal fibroblasts  
+[*Genome Biology & Evolution* 8:2459--2473](https://doi.org/10.1093/gbe/evw168) (2016)  
+<small>
+Kin K, Maziarz J, **Chavan AR**, Kamat M, Vasudevan S, Birt A, Emera D, Lynch VJ, Ott TL, Pavlicev M, Wagner GP  
+pdf: [download](static/publications/Kin_2016_GBE.pdf) •
+data: [GSE67659](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE67659)
+</small>
+
+1. The fetal-maternal interface of the nine-banded armadillo: endothelial cells of maternal sinus are partially replaced by trophoblast    
+[*Zoological Letters* 2:11](https://doi.org/10.1186/s40851-016-0048-1) (2016)  
+<small>
+**Chavan AR**, and Wagner GP  
+pdf: [download](static/publications/Chavan_2016_zool-lett.pdf)
+</small>
+
+1. What was the ancestral function of decidual stromal cells? A model for the evolution of eutherian pregnancy    
+[*Placenta* 40:40--51](https://doi.org/10.1016/j.placenta.2016.02.012) (2016)  
+<small>
+**Chavan AR**, Bhullar B-AS, and Wagner GP  
+pdf: [download](static/publications/Chavan_2016_placenta.pdf)
+</small>
+
+1. Polygenic cis-regulatory adaptation in the evolution of yeast pathogenicity  
+[*Genome Research* 22:1930--1939](http://www.genome.org/cgi/doi/10.1101/gr.134080.111) (2012)  
+<small>
+Fraser HB, Levy S, **Chavan A**, Shah HB, Perez JC, Zhou Y, Siegal ML, Sinha H  
+pdf: [download](static/publications/Fraser_2012_genome-res.pdf)
+</small>
+
+
+```{r}
+knitr::knit_exit()
+
+# template below
+```
+
+
+1. Title of the article  
+[*Journal name* page numbers](doi link) (year)  
+<small>
+authors here  
+pdf: [download](static/publications/link to pdf) • 
+preprint: [bioRxiv](link to preprint) • 
+code: [archavan/repo](link to repo)  •
+data: [accession id](link to data)
+</small>
+

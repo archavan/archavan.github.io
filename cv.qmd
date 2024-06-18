@@ -2,7 +2,7 @@
 title: Curriculum vitae
 ---
 
-[Download full CV in PDF.](static/cv/cv-chavan.pdf) 
+[Download full CV in PDF.](https://archavan.github.io/cv/cv-chavan.pdf) 
 
 ## CV summary
 

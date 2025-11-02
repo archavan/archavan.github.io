@@ -7,6 +7,13 @@ linestretch: 1.3
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+1. Precocial ancestry of placental mammals  
+[*bioRxiv*](https://doi.org/10.1101/2025.10.30.685703) (2025)  
+<small>
+**Chavan AR**, Pavlicev M, Wagner GP  
+pdf: [download](static/publications/Chavan_2025_biorxiv.pdf) • 
+code: [archavan/precocity](https://github.com/archavan/precocity)
+</small>
 
 1. Tissue Biology: In Search of a New Paradigm    
 [*Annual Review of Cell & Developmental Biology* 39(1)](https://doi.org/10.1146/annurev-cellbio-120420-113830) (2023)  

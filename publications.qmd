@@ -7,6 +7,14 @@ linestretch: 1.3
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+1. Heme orchestrates a tissue stress response to proteolytic damage  
+[*bioRxiv*](https://doi.org/10.64898/2026.05.31.729126) (2026)  
+<small>
+Agaronyan K, Greaney AM, Yu S, **Chavan AR**, El-Naccache DW, Manning EP, Sharma L, Dela Cruz CS, Medzhitov R  
+pdf: [dowload](static/publications/Agaronyan_2026_biorxiv.pdf)
+</small>
+
+
 1. Precocial ancestry of placental mammals  
 [*bioRxiv*](https://doi.org/10.1101/2025.10.30.685703) (2025)  
 <small>
